@@ -1,0 +1,138 @@
+.top{
+  background-color: black;
+  padding:10px;
+}
+.social a{
+  color:white;
+  padding:3px;
+  text-decoration: none;
+}
+.social1 a{
+  color: black;
+}
+.main{
+  padding: 10px;
+}
+.main a{
+  color: black;
+  font-size: 20px;
+}
+.drop a{
+  font-size: 15px;
+}
+.home-carousel h1,
+.home-carousel h2,
+.home-carousel h3,
+.home-carousel p,
+.home-carousel ul {
+  color: #008080;
+}
+.home-carousel h1 {
+  font-variant: small-caps;
+  font-family: fantasy; 
+  font-size: 46px;
+  font-weight:50px ;
+}
+
+ .copyright{
+  color: black;
+
+ }
+ #copyright {
+  background-color: black;
+  font-variant: small-caps;
+  color: white;
+  padding-top: 5px;
+}
+.home-carousel p{
+font-weight: 900;
+font-size: 100;
+}
+
+#footer {
+  background: ;
+  padding: 50px 0;
+  color: white;
+
+}
+#footer h1,
+#footer h2,
+#footer h3,
+#footer h4,
+#footer h5,
+#footer h6,
+#footer p{
+  color: black;
+}
+#footer h4{
+  
+  font-variant: small-caps;
+  font-size: 30px;
+}
+#footer a{
+  color: black;
+}
+.panel-front { /* Only for this preview */
+    margin-bottom:20px;
+    margin-top:20px;
+}
+
+.panel-front .panel-heading .panel-title img {
+  border-radius:3px 3px 0px 0px;
+  width:100%;
+}
+
+.panel-front .panel-heading {
+  padding: 0px; 
+}
+
+.panel-front .panel-heading h4 {
+  line-height: 0;
+}
+
+.panel-front .panel-body h4 {
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+.blog-entries a{
+  text-decoration: none;
+}
+.team-member{
+  text-align: center;
+}
+.content{
+  text-align: center;
+}
+.popover{
+  width: 400px;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button1 {
+    background-color: #B6D4DE; 
+    color: black; 
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+.button1:hover {
+    background-color: #f44336;
+    color: white;
+}
+.price{
+  font-family: BankGothic Md BT;
+  font-size: 15px;
+}

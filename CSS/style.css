@@ -1,0 +1,132 @@
+body{
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background: fixed;
+	background-image: url(black_background_wood-wallpaper-800x600.jpg);
+}
+
+/* Start up page design */
+.front-page{
+	padding-top: 300px;
+	font-family: Courier New;
+}
+
+.front-page a{
+	margin-top: 20px;
+}
+
+/* End design */
+
+
+.container{
+	color: white;
+}
+
+/* Table Header */
+.container th{
+	text-align: center;
+}
+
+/* End Table Header */
+
+.backtotop {
+	padding-right: 650px;
+	color: lightblue;
+}
+
+.img-rounded{
+	background-color: white;
+	width: 200px;
+	text-align: center;
+}
+
+.software-engineer h1{
+	background-color: black;
+	width: 350px;
+}
+
+.software-engineer p{
+	padding-left: 60px;
+	width: 350px;
+}
+
+.hardware-engineer h1{
+	background-color: black;
+	width: 350px;
+	margin-right: 150px;
+}
+
+.hardware-engineer p{
+	padding-left: 0px;
+	width: 350px;
+}
+
+.type h1{
+	background-color: black;
+	width: 700px;
+}
+
+
+hr{
+	width: 700px;
+}
+
+
+.pic{
+	width: 800px;
+	max-height: 500px;
+}	
+
+.information p{
+	padding-left: 30px;
+}
+
+
+footer{
+	background: #000000;
+	width: 100%;
+	opacity: 0.6;
+	overflow: hidden;
+}
+
+.objectives{
+	color: lightgray;
+}
+
+
+.objectives h1{
+	color: white;
+	background-color: black;
+	width: 700px;
+}
+
+.objectives p{
+	width: 800px;
+	font-size: 24px;
+}
+.mem{
+	color: lightgray;
+	list-style-type: none;
+	margin-left: 70px;
+	font-size: 20px;
+}
+
+.language h1{
+	background-color: black;
+	width: 700px;
+}
+.language img{
+	height: 100px;
+	width: 100px;
+	margin-top: 50px;
+	padding-right: 20px;
+}
+.web img{
+	height: 400px;
+	width: 600px;
+}
+.IT img{
+	height: 300px;
+	width: 500px;
+	margin: 10px;
+}
